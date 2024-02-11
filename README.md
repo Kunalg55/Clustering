@@ -94,10 +94,10 @@ Distribution-Plot:
 3. In context of using **transformation**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
 4. In context of using **PCA**, among the 8 types of clustering provided , the **Mean shift clustering** gave the best silhouette value with **no of clusters = 3**
-5. 
-6. In context of using **normalization + transformation**, among the 8 types of clustering provided , the Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
+ 
+5. In context of using **normalization + transformation**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
-7. In context of using **normalization + transformation + PCA**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
+6. In context of using **normalization + transformation + PCA**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
 
 
