@@ -36,3 +36,25 @@ Ordering Points To Identify the Clustering Structure (OPTICS) is an extension of
 
 # 8. Birch Clustering
 BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) is a hierarchical clustering algorithm designed for large datasets. It incrementally builds a tree-like structure to represent the data, making it memory-efficient and suitable for streaming data.
+
+# About The Notebook(Clustering.ipynb):
+
+Clustering.ipynb notebook is been generated to perform clustering on the dataset-Raisin_Dataset.csv.All the 8 type of clustering is been done on the dataset and got value of certain set of parameters mainly;Silhouette,Calinski-Harabasz,Davies-Bouldin
+
+**First five rows of dataset:-**
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/86138e18-cc36-45d2-a3d8-8d5b3f4e9bf1)
+
+# K-means
+**Elbow-Plot**
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/ce9e9732-a29a-474d-88c9-574a430cf903)
+
+**Distribution-Plot**
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/c1ce39eb-f3d8-4b00-9849-98744c7246b3)
+
+**Result of K-means after applying different normalization techniques:**
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/089faf8d-33aa-46c6-b0bc-52d17f05d5e1)
+
+
+
+
+
