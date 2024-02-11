@@ -11,8 +11,8 @@ The primary objective of clustering is to partition a dataset into groups, or cl
 # 2. Similarity Measure
 Clustering relies on a similarity measure to quantify the likeness between data points. Common metrics include Euclidean distance, cosine similarity, and correlation coefficient.
 
-## Clustering Methods
-1. K-Means Clustering
+## **Clustering Methods**
+**1. K-Means Clustering**
 K-Means is a popular partitioning method that divides the dataset into 'k' clusters. It minimizes the sum of squared distances between data points and their assigned cluster centroids. The algorithm iteratively refines cluster assignments until convergence.
 
 2. Affinity Propagation
