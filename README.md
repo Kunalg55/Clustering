@@ -87,17 +87,17 @@ Distribution-Plot:
 
 # **Conclusions**
 
-1. In context of no data preprocessing among the 8 types of clustering provided , the  mean shift clustering gave the best silhouette value with no of clusters = 4
+1. In context of **no data preprocessing** among the 8 types of clustering provided , the ** mean shift clustering** gave the best silhouette value with **no of clusters = 4**
 
-2. In context of using normalization, among the 8 types of clustering provided , the Spectral Clustering gave the best silhouette value with no of clusters = 3
+2. In context of using **normalization**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
-3. In context of using transformation, among the 8 types of clustering provided , the Spectral Clustering gave the best silhouette value with no of clusters = 3
+3. In context of using **transformation**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
-4. In context of using PCA, among the 8 types of clustering provided , the Mean shift clustering gave the best silhouette value with no of clusters = 3
+4. In context of using **PCA**, among the 8 types of clustering provided , the **Mean shift clustering** gave the best silhouette value with **no of clusters = 3**
+**
+5. In context of using **normalization + transformation**, among the 8 types of clustering provided , the Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
-5. In context of using normalization + transformation, among the 8 types of clustering provided , the Spectral Clustering gave the best silhouette value with no of clusters = 3
-
-6. In context of using ormalization + transformation + PCA, among the 8 types of clustering provided , the Spectral Clustering gave the best silhouette value with no of clusters = 3
+6. In context of using n**ormalization + transformation + PCA**, among the 8 types of clustering provided , the **Spectral Clustering** gave the best silhouette value with **no of clusters = 3**
 
 
 
