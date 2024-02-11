@@ -44,15 +44,46 @@ Clustering.ipynb notebook is been generated to perform clustering on the dataset
 **First five rows of dataset:-**
 ![image](https://github.com/Kunalg55/Clustering/assets/142966912/86138e18-cc36-45d2-a3d8-8d5b3f4e9bf1)
 
-# K-means
+
 **Elbow-Plot**
+
 ![image](https://github.com/Kunalg55/Clustering/assets/142966912/ce9e9732-a29a-474d-88c9-574a430cf903)
 
-**Distribution-Plot**
+Distribution-Plot:
 ![image](https://github.com/Kunalg55/Clustering/assets/142966912/c1ce39eb-f3d8-4b00-9849-98744c7246b3)
 
+
 **Result of K-means after applying different normalization techniques:**
+
 ![image](https://github.com/Kunalg55/Clustering/assets/142966912/089faf8d-33aa-46c6-b0bc-52d17f05d5e1)
+
+**Result of Affinity Propagation after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/ec877ac1-d70b-432c-ac66-f55592e94075)
+
+**Result of Agglomerative Clustering after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/d78793e0-a23c-4c06-be1f-5fca8c742c47)
+
+**Result of Mean shift clustering after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/10fc93d6-1288-4351-9ac5-55c823df1279)
+
+**Result of Spectral Clustering after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/3ef60dcd-7a26-4692-93e4-8d4f9d334cbe)
+
+**Result of Density-Based Spatial Clustering  after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/e64410fd-f3ab-4e4f-9ac2-60da3a70b508)
+
+**Result of OPTICS Clustering after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/02a66b0c-7fd7-4f46-bb83-4459bbc267ac)
+
+**Result of Birch Clustering after applying different normalization techniques:**
+
+![image](https://github.com/Kunalg55/Clustering/assets/142966912/42e27b7c-9d5a-4191-ad10-b91243a83839)
 
 
 
