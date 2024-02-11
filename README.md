@@ -5,14 +5,14 @@
 ## Clustering: An Overview
 Clustering is a fundamental technique in unsupervised machine learning, aiming to group similar data points together based on certain features or characteristics. The primary goal is to discover inherent patterns, structures, or relationships within the data without the need for predefined labels. Clustering finds applications in various fields, including data analysis, pattern recognition, image segmentation, and customer segmentation.
 
-**# Key Concepts**
+# Key Concept:
 
 # 1. Objective
 The primary objective of clustering is to partition a dataset into groups, or clusters, where points within the same cluster are more similar to each other than to those in other clusters.
 # 2. Similarity Measure
 Clustering relies on a similarity measure to quantify the likeness between data points. Common metrics include Euclidean distance, cosine similarity, and correlation coefficient.
 
-# Clustering Methods
+# Clustering Methods:
 # 1. K-Means Clustering
 K-Means is a popular partitioning method that divides the dataset into 'k' clusters. It minimizes the sum of squared distances between data points and their assigned cluster centroids. The algorithm iteratively refines cluster assignments until convergence.
 
